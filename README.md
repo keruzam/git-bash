@@ -7,6 +7,7 @@ git status
 
 git add
 git comimit -m 'test'
+git push
 git diff
 
 test test

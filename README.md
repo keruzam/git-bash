@@ -8,3 +8,5 @@ git status
 git add
 git comimit -m 'test'
 git diff
+
+test test
